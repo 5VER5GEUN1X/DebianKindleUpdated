@@ -37,4 +37,4 @@ Finally, type `echo alias "sudo"="sudo -S"`.
 
 Open an issue in the [Issue Tracker]
 or send me a friend request on discord if you run into an issue somewhere and you want faster attention on the issue. 
-averageemogirl
+averageun1x
